@@ -33,7 +33,7 @@ margin-top: 5px;
     font-size: 3vw;
     font-style:normal;
     color: white;
-    margin: 8vw 0 0 8vw;
+    margin: 18vw 0 0 8vw;
 }
 .calender{
     display: flex;
@@ -52,7 +52,7 @@ margin-top: 5px;
 }
 .container2 img{
 width: 35vw;
-margin: 7vw 0 0 5vw;
+margin: 13vw 0 0 5vw;
  border-radius: 35vw; 
  background: transparent;
 
@@ -87,7 +87,7 @@ margin: 7vw 0 0 5vw;
     justify-content: center;
     margin-left: 4vw;
     background-color: solid black;
-    margin-top: 5vw;
+    margin-top: 10vw;
 }
 
 .slide2 p{
@@ -117,7 +117,7 @@ margin: 7vw 0 0 5vw;
     text-align: center;
     color: white;
     font-size: xx-large;
-    margin-top: 3vw;
+    margin-top: 10vw;
     
 }
 .slide3 p1{
@@ -133,14 +133,14 @@ margin: 7vw 0 0 5vw;
     justify-content: center;
     margin-left: 4vw;
     background-color: solid black;
-    margin-top: 5vw;
+    margin-top: 10vw;
 }
 
 .slide4 p{
     text-align: center;
     color: white;
     font-size: xx-large;
-    margin-top: 3vw;
+    margin-top: 10vw;
     
 }
 .slide4 p1{
@@ -159,5 +159,11 @@ margin: 7vw 0 0 5vw;
     }
     h1{
         font-size: 7vw;
+    }
+    .slide1 p ,slide2 p , slide3 p , slide4 p{
+        margin-top: 15vw;
+    }
+    .slide1 p1 ,slide2 p1 , slide3 p1 , slide4 p1{
+     margin-top: 50vw;
     }
 }
