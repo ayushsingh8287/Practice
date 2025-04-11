@@ -160,10 +160,36 @@ margin: 13vw 0 0 5vw;
     h1{
         font-size: 7vw;
     }
-    .slide1 p ,slide2 p , slide3 p , slide4 p{
-        margin-top: 15vw;
+    .slide1 p{
+        font-size: 5vw;
     }
-    .slide1 p1 ,slide2 p1 , slide3 p1 , slide4 p1{
-     margin-top: 50vw;
+    .slide1 p1{
+        font-size:3vw;
+        margin-top: 5vw;
     }
+    .slide2 p, .slide3 p{
+        font-size:5vw ;
+        margin-top: 10vw;
+    }
+    .slide2 p1, .slide3 p1 {
+        font-size: 3vw;
+        margin-top: 4vw;
+    }
+    .slide4 p{
+        font-size: 5vw;
+        margin-top: 30vw;
+    }
+    .slide4 p1{
+        font-size: 3vw;
+        margin-top: 5vw;
+    }
+    /* .slide p{3
+        font-size:4vw;
+    }
+    .slide1 p1{
+        font-size:1vw;
+    }
+    .slide p{
+        font-size:1vw;
+    } */
 }
